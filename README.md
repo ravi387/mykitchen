@@ -65,10 +65,10 @@
   <section id="gallery">
     <h1>Gallery</h1>
     <div class="gallery">
-      <img src="image/paneer.jpg" alt="Paneer Butter Masala">
-      <img src="https://via.placeholder.com/200x150?text=Dosa" alt="Masala Dosa">
-      <img src="https://via.placeholder.com/200x150?text=Chole" alt="Chole Bhature">
-      <img src="https://via.placeholder.com/200x150?text=Biryani" alt="Biryani">
+      <img src="C:\Users\Lenovo\Downloads\SimpleRecipeWebsite\image\paneer.jpg" alt="Paneer Butter Masala">
+      <img src="C:\Users\Lenovo\Downloads\SimpleRecipeWebsite\image\dosa.jpg" alt="Masala Dosa">
+      <img src="C:\Users\Lenovo\Downloads\SimpleRecipeWebsite\image\chhole.jpg" alt="Chole Bhature">
+      <img src= "C:\Users\Lenovo\Downloads\SimpleRecipeWebsite\image\biryani.jpg" alt="Biryani">
     </div>
   </section>
 
