@@ -1,5 +1,4 @@
 # mykitchen
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -66,7 +65,7 @@
   <section id="gallery">
     <h1>Gallery</h1>
     <div class="gallery">
-      <img src="https://via.placeholder.com/200x150?text=Paneer" alt="Paneer Butter Masala">
+      <img src="image/paneer.jpg" alt="Paneer Butter Masala">
       <img src="https://via.placeholder.com/200x150?text=Dosa" alt="Masala Dosa">
       <img src="https://via.placeholder.com/200x150?text=Chole" alt="Chole Bhature">
       <img src="https://via.placeholder.com/200x150?text=Biryani" alt="Biryani">
