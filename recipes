@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    h1 { color: darkblue; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is my first web page!</p>
+</body>
+</html>
