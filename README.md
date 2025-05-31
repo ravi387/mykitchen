@@ -75,9 +75,7 @@
 
   <section id="contact">
     <h1>Contact Us</h1>
-    <p>Email: contact@indianrecipes.com</p>
-    <p>Phone: +91-9876543210</p>
-    <p>Follow us on Instagram: @indianrecipes</p>
+    <p>Phone: +91-8275476485</p>
   </section>
 </body>
 </html>
